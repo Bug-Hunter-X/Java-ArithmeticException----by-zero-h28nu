@@ -1,0 +1,1 @@
+This repository contains a simple Java program demonstrating an ArithmeticException caused by division by zero.  The `Bug.java` file shows the erroneous code. The `BugSolution.java` file provides a solution to handle this common error gracefully.  This is a great example to illustrate exception handling in Java and the importance of robust code.
